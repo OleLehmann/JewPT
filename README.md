@@ -1,38 +1,186 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ <div align="center">
 
-## Getting Started
+<img src="https://img.shields.io/badge/✡-JEWPT-0057B8?style=for-the-badge&labelColor=111827" />
 
-First, run the development server:
+# ✡️ JewPT
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+### <span style="color:#0088FF">THE GPT WITH A JEWISH PERSPECTIVE.</span>
+
+**<span style="color:#00BFA6">Ancient Wisdom.</span> <span style="color:#FFB000">Modern Intelligence.</span> <span style="color:#FF4D6D">Maximum Chutzpah.</span>**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/OleLehmann/JewPT)
+[![AI](https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Jewish Perspective](https://img.shields.io/badge/Perspective-Jewish-007FFF?style=for-the-badge)](#)
+[![Chutzpah](https://img.shields.io/badge/Chutzpah-100%25-FFB000?style=for-the-badge)](#)
+
+---
+
+### 🔵 📜 🟡 🕎 🔵
+
+**What if GPT had a Jewish perspective?**
+
+</div>
+
+---
+
+## 🌈 What Is JewPT?
+
+**JewPT** is a Jewish-perspective AI concept designed to approach questions through the lens of Jewish culture, history, philosophy, traditions, and intellectual debate.
+
+From the wisdom of the **Torah** to the arguments of the **Talmud**, from entrepreneurship to ethics, JewPT brings a distinctive cultural perspective to the world of artificial intelligence.
+
+🔵 **Jewish Perspective.**
+
+🟡 **Intellectual Curiosity.**
+
+🟢 **Independent Thinking.**
+
+🟣 **A Little Chutzpah.**
+
+> 💬 *Two Jews, three opinions, infinite possibilities.*
+
+## 🎨 The JewPT Philosophy
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔵 Jewish Wisdom
+
+Explore Jewish history, religious traditions, philosophy, and cultural perspectives.
+
+</td>
+<td width="50%">
+
+### 🟡 Intellectual Debate
+
+Challenge assumptions, compare interpretations, and examine arguments from multiple angles.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🟢 Modern Intelligence
+
+Bring Jewish intellectual traditions into conversations about technology, business, ethics, and everyday life.
+
+</td>
+<td width="50%">
+
+### 🟣 Maximum Chutzpah
+
+A distinctive AI personality with confidence, curiosity, humor, and a willingness to ask difficult questions.
+
+</td>
+</tr>
+</table>
+
+## 🧠 What Can You Ask?
+
+| 🎨 Topic | 💬 Example |
+|:---|:---|
+| 📜 Torah & Talmud | What can Talmudic reasoning teach us about modern life? |
+| 🕎 Jewish History | How has Jewish history shaped Jewish identity? |
+| 💎 Philosophy | How might Jewish philosophy approach this dilemma? |
+| 📈 Business | What can Jewish commercial history teach us about entrepreneurship? |
+| ⚖️ Ethics | How would Jewish ethical traditions examine this question? |
+| 🌍 Current Affairs | How might different Jewish perspectives interpret this event? |
+| 😂 Everyday Life | Give me the Jewish take on this situation. |
+| 🥊 Debate | Build the strongest argument from a Jewish perspective. |
+
+## 🌐 Why JewPT?
+
+Most AI assistants aim for a general-purpose perspective.
+
+**JewPT explores a different approach:**
+
+- 🔵 **Cultural depth** — Jewish sources and traditions take center stage when relevant.
+- 🟡 **Historical context** — Understand today's questions through the lens of history.
+- 🟢 **Critical thinking** — Examine claims, test arguments, and challenge assumptions.
+- 🟣 **Intellectual diversity** — Recognize the many perspectives within Jewish communities.
+- 🔴 **Distinctive personality** — Less generic chatbot, more character.
+- 🟠 **Honest discussion** — Distinguish facts, interpretations, opinions, and humor.
+
+## 💬 Example Interaction
+
+<blockquote>
+
+**👤 You:**
+
+What's the best way to approach a difficult disagreement?
+
+**✡️ JewPT:**
+
+Start by understanding the argument, not just the person making it.
+
+Jewish intellectual tradition offers a rich history of debate, interpretation, and rigorous questioning. A disagreement doesn't have to be a problem to eliminate; it can be an opportunity to uncover assumptions, refine ideas, and learn something unexpected.
+
+The real question isn't only *who is right?*
+
+It's also *what might each side be missing?*
+
+And remember: a good argument can be productive. A great argument might last for generations.
+
+</blockquote>
+
+<sub>Illustrative example of the intended personality, not an actual model output.</sub>
+
+## 🏗️ Built Around Perspective
+
+```text
+          ✡️ JEWPT
+             |
+     ┌───────┴───────┐
+     |               |
+  CULTURE          REASON
+     |               |
+ Jewish History   Critical Thinking
+ Torah & Talmud   Intellectual Debate
+     |               |
+     └───────┬───────┘
+             |
+       AI CONVERSATION
+             |
+      A JEWISH LENS
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Explore the Project
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+<div align="center">
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### 🔥 Get Involved 🔥
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+[![Explore Repository](https://img.shields.io/badge/EXPLORE-REPOSITORY-007FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OleLehmann/JewPT)
+[![Star on GitHub](https://img.shields.io/badge/GIVE_IT-A_STAR-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/OleLehmann/JewPT/stargazers)
+[![Contribute](https://img.shields.io/badge/CONTRIBUTE-IDEAS-00BFA6?style=for-the-badge)](https://github.com/OleLehmann/JewPT/issues)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+</div>
 
-## Learn More
+- ⭐ Star the repository.
+- 🍴 Fork it and experiment.
+- 💡 Open issues with ideas and suggestions.
+- 🤝 Contribute improvements and new features.
 
-To learn more about Next.js, take a look at the following resources:
+## ⚖️ Perspective, Not Stereotypes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+JewPT explores a Jewish cultural and intellectual perspective without assuming that all Jewish people share the same beliefs, values, or opinions.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+The goal is to foreground a particular tradition of thought while remaining open to disagreement, nuance, evidence, and other perspectives.
 
-## Deploy on Vercel
+## ✡️ The Bottom Line
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<div align="center">
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# 🔵 JEWISH PERSPECTIVE.
+# 🟡 ARTIFICIAL INTELLIGENCE.
+# 🟢 MAXIMUM CHUTZPAH.
+
+**Ask boldly. Think critically. Debate endlessly.**
+
+### ✡️ Welcome to JewPT.
+
+[![GitHub](https://img.shields.io/badge/MADE_FOR-INTELLECTUAL_CURIOSITY-8A2BE2?style=for-the-badge)](https://github.com/OleLehmann/JewPT)
+
+</div>
+
